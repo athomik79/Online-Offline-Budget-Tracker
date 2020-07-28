@@ -1,4 +1,5 @@
 # PWA Online/Offline Budget Tracker
+A progressive web application with online and offline functionality
 
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
 
